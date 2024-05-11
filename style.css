@@ -1,0 +1,135 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+body{
+    background-image: linear-gradient(to right,#E2C078,#8C0E03 );
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: "Merienda", cursive;
+    color:#E2C078 ;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: normal;
+    box-shadow: 4px 5px 10px black;
+}
+
+.meus-dados{
+    background-color: white;
+    color:#E2C078 ;
+    font-family:"Merienda", cursive ;
+    text-align: center;
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow:4px 5px 10px black ;
+    width: 900px;
+}
+.sobre-ailton{
+    background-color: white;
+    color:#E2C078 ;
+    font-family:"Merienda", cursive ;
+    text-align: center;
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow:4px 5px 10px black ;
+    width: 900px;
+}
+.experiencia{
+    background-color: white;
+    color:#E2C078 ;
+    font-family:"Merienda", cursive ;
+    text-align: center;
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow:4px 5px 10px black ;
+    width: 900px;
+}
+.proficao{
+    font-size: 15px;
+    background-color: white;
+    color:#E2C078 ;
+    font-family:"Merienda", cursive ;
+    text-align: center;
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow:4px 5px 10px black ;
+    width: 900px;
+    text-align: justify;
+}
+
+  .social-links,.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .social-btn {
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    font-family: 'Titillium Web', sans-serif;
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+    background: white;
+    margin: 5px;
+    transition: 0.3s;
+    justify-content: center;
+  }
+  
+  .social-btn svg {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .social-btn span {
+    width: 0px;
+    overflow: hidden;
+    transition: 0.3s;
+    text-align: center;
+    margin-left: 5px;
+  }
+  
+  .social-btn:hover {
+    width: 150px;
+    border-radius: 5px;
+  }
+  
+  .social-btn:hover span {
+    padding: 2px;
+    width: 80px;
+  }
+  
+  #twitter svg {
+    fill: #1da1f2;
+  }
+  
+  #linkedin svg {
+    fill: #0e76a8;
+  }
+  
+  #github {
+    fill: #333;
+  }
+  a{
+    color: #590202;
+    text-decoration: none;
+    font-family: "Merienda", cursive;
+  }
+  
+
+
+  
