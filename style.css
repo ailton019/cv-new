@@ -4,6 +4,9 @@ body{
     background-image: linear-gradient(to right,#E2C078,#8C0E03 );
     background-attachment: fixed;
 }
+main{
+    margin:auto;
+}
 
 h1{
     font-family: "Merienda", cursive;
