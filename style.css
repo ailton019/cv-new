@@ -13,6 +13,7 @@ h1{
     font-weight: bolder;
     font-style: normal;
     box-shadow: 4px 5px 10px black;
+    margin: auto;
 }
 
 .meus-dados{
@@ -88,6 +89,7 @@ h1{
     margin: 5px;
     transition: 0.3s;
     justify-content: center;
+    margin: auton;
   }
   
   .social-btn svg {
